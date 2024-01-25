@@ -1,4 +1,4 @@
-# in3110_instapy package
+# Image Filters package
 
 ## Package contents
 
